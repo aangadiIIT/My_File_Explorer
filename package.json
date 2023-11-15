@@ -2,7 +2,7 @@
   "name": "my_file_explorer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akhileshangadi/My_File_Explorer.git"
